@@ -12,6 +12,9 @@ Imports System.Text
 Imports System.Configuration
 Imports System.Data.SqlClient
 Imports System.Globalization
+Imports DocumentFormat.OpenXml
+Imports DocumentFormat.OpenXml.Packaging
+Imports DocumentFormat.OpenXml.Spreadsheet
 
 
 
@@ -22,53 +25,51 @@ Partial Public Class ReportExport
     Dim sConnection As String = System.Configuration.ConfigurationManager.ConnectionStrings("default").ConnectionString
     Dim SQL As String
 
+    Public Sub CreateExcelFileFromDataTable(ByVal dataTable As DataTable, ByVal filePath As String)
+
+        'Create the SpreadsheetDocument object and set its type to Workbook
+        Using document As SpreadsheetDocument = SpreadsheetDocument.Create(filePath, SpreadsheetDocumentType.Workbook)
+            'Create the workbook
+            Dim workbookPart As WorkbookPart = document.AddWorkbookPart()
+            workbookPart.Workbook = New Workbook()
+            'Create the worksheet
+            Dim worksheetPart As WorksheetPart = workbookPart.AddNewPart(Of WorksheetPart)()
+            worksheetPart.Worksheet = New Worksheet()
+            'Create the sheet data
+            Dim sheetData As SheetData = worksheetPart.Worksheet.AppendChild(New SheetData())
+            'Create the header row
+            Dim headerRow As Row = New Row()
+            'Loop through each column in the DataTable and add it to the header row
+            For Each column As DataColumn In dataTable.Columns
+                headerRow.AppendChild(New Cell() With {.DataType = CellValues.String, .CellValue = New CellValue(column.ColumnName)})
+            Next
+
+            'Add the header row to the sheet data
+            sheetData.AppendChild(headerRow)
+            'Populate the data rows
+            For Each dataRow As DataRow In dataTable.Rows
+                Dim row As Row = New Row()
+                'Loop through each column in the DataTable and add the corresponding cell value to the current row
+                For Each column As DataColumn In dataTable.Columns
+                    row.AppendChild(New Cell() With {.DataType = CellValues.String, .CellValue = New CellValue(dataRow(column.ColumnName).ToString())})
+                Next
+
+                'Add the row to the sheet data
+                sheetData.AppendChild(row)
+            Next
+
+            'Create the sheets
+            Dim sheets As Sheets = workbookPart.Workbook.AppendChild(New Sheets())
+            Dim sheet As Sheet = New Sheet() With {.Id = workbookPart.GetIdOfPart(worksheetPart), .SheetId = 1, .Name = "Sheet1"}
+            sheets.Append(sheet)
+            'Save changes
+            workbookPart.Workbook.Save()
+        End Using
+    End Sub
 
     Private Sub Page_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
         Dim strName As String
 
-        Dim constr As String = ConfigurationManager.ConnectionStrings("constr").ConnectionString
-        Using con As New SqlConnection(constr)
-            Using cmd As New SqlCommand("SELECT * FROM Customers")
-                Using sda As New SqlDataAdapter()
-                    cmd.Connection = con
-                    sda.SelectCommand = cmd
-                    Using dt As New DataTable()
-                        sda.Fill(dt)
-
-                        'Build the Text file data.
-                        Dim txt As String = String.Empty
-
-                        For Each column As DataColumn In dt.Columns
-                            'Add the Header row for Text file.
-                            txt += column.ColumnName & vbTab & vbTab
-                        Next
-
-                        'Add new line.
-                        txt += vbCr & vbLf
-
-                        For Each row As DataRow In dt.Rows
-                            For Each column As DataColumn In dt.Columns
-                                'Add the Data rows.
-                                txt += row(column.ColumnName).ToString() & vbTab & vbTab
-                            Next
-
-                            'Add new line.
-                            txt += vbCr & vbLf
-                        Next
-
-                        Try
-                            Dim pathApp = MapPath("~")
-                            pathApp = pathApp + "\ArchivosTemp\"
-                            strName = "Export_" + Context.Session("UID").trim + "_" + Date.Now.Day.ToString + Date.Now.Month.ToString + Date.Now.Year.ToString + Date.Now.Minute.ToString + Date.Now.Second.ToString + ".xls"
-                            Dim objXls As New DataDynamics.ActiveReports.Export.Xls.XlsExport
-                            ligaExcel.Text += "<a id='Archivo' href='" + Intelexion.Framework.ApplicationConfiguration.ConfigurationSettings.GetConfigurationSettings("ApplicationPath") + "/ArchivosTemp/" + strName + "' target='_blank' >" + Intelexion.Framework.SystemLabels.SystemLabels.getValueById(3423, Context.Session("LID")) + "</a>"
-                        Catch ex As Exception
-                        End Try
-
-                    End Using
-                End Using
-            End Using
-        End Using
 
         Dim FechaDesde, FechaHasta As String
         If Not String.IsNullOrEmpty(Request.QueryString("FechaDesde")) And Not String.IsNullOrEmpty(Request.QueryString("FechaHasta")) Then
@@ -86,19 +87,17 @@ Partial Public Class ReportExport
 
         Try
             Dim pathApp = MapPath("~")
+            Dim xlsxfilename As String
             pathApp = pathApp + "\ArchivosTemp\"
             strName = "Asistencia_" + Context.Session("UID").trim + "_" + Date.Now.Day.ToString + Date.Now.Month.ToString + Date.Now.Year.ToString + Date.Now.Minute.ToString + Date.Now.Second.ToString + ".xls"
-            Dim objXls As New DataDynamics.ActiveReports.Export.Xls.XlsExport
+            xlsxfilename = Intelexion.Framework.ApplicationConfiguration.ConfigurationSettings.GetConfigurationSettings("ApplicationPath") + "/ArchivosTemp/" + strName
+            CreateExcelFileFromDataTable(Me.GetAsistenceData(), xlsxfilename)
             ligaExcel.Text += "<a id='Archivo' href='" + Intelexion.Framework.ApplicationConfiguration.ConfigurationSettings.GetConfigurationSettings("ApplicationPath") + "/ArchivosTemp/" + strName + "' target='_blank' >" + Intelexion.Framework.SystemLabels.SystemLabels.getValueById(3423, Context.Session("LID")) + "</a>"
         Catch ex As Exception
         End Try
 
         If Not Me.IsPostBack Then
             LlenarTabla()
-
-            ' FillidRazonSocialDropDown(sConnection)
-            ' FillIdTipoNominaAsigDropDown(sConnection)
-            'FillIdTipoNominaProcDropDown(sConnection)
 
         End If
 
@@ -150,54 +149,5 @@ Partial Public Class ReportExport
             End Using
         End Using
     End Function
-
-
-    'Private Sub FillidRazonSocialDropDown(ByVal sConnection As String)
-    '    Using con As New SqlConnection(sConnection)
-    '        Using cmd As New SqlCommand("select nombre, IdRazonSocial from [dbo].[RazonSocial] where Activo = 1")
-    '            cmd.CommandType = CommandType.Text
-    '            cmd.Connection = con
-    '            con.Open()
-    '            idRazonSocial.DataSource = cmd.ExecuteReader()
-    '            idRazonSocial.DataTextField = "nombre"
-    '            idRazonSocial.DataValueField = "IdRazonSocial"
-    '            idRazonSocial.DataBind()
-    '            con.Close()
-    '        End Using
-    '    End Using
-    '    idRazonSocial.Items.Insert(0, New ListItem("-Seleccione-", "0"))
-    'End Sub
-
-    'Private Sub FillIdTipoNominaAsigDropDown(ByVal sConnection As String)
-    '    Using con As New SqlConnection(sConnection)
-    '        Using cmd As New SqlCommand("select concat(IdTipoNomina,' - ',Descripcion) as name ,IdTipoNomina from nomTipoNomina")
-    '            cmd.CommandType = CommandType.Text
-    '            cmd.Connection = con
-    '            con.Open()
-    '            IdTipoNominaAsig.DataSource = cmd.ExecuteReader()
-    '            IdTipoNominaAsig.DataTextField = "name"
-    '            IdTipoNominaAsig.DataValueField = "IdTipoNomina"
-    '            IdTipoNominaAsig.DataBind()
-    '            con.Close()
-    '        End Using
-    '    End Using
-    '    IdTipoNominaAsig.Items.Insert(0, New ListItem("-Seleccione-", "0"))
-    'End Sub
-
-    'Private Sub FillIdTipoNominaProcDropDown(ByVal sConnection As String)
-    '    Using con As New SqlConnection(sConnection)
-    '        Using cmd As New SqlCommand("select concat(IdTipoNomina,' - ',Descripcion) as name ,IdTipoNomina from nomTipoNomina")
-    '            cmd.CommandType = CommandType.Text
-    '            cmd.Connection = con
-    '            con.Open()
-    '            IdTipoNominaProc.DataSource = cmd.ExecuteReader()
-    '            IdTipoNominaProc.DataTextField = "name"
-    '            IdTipoNominaProc.DataValueField = "IdTipoNomina"
-    '            IdTipoNominaProc.DataBind()
-    '            con.Close()
-    '        End Using
-    '    End Using
-    '    IdTipoNominaProc.Items.Insert(0, New ListItem("-Seleccione-", "0"))
-    'End Sub
 
 End Class
