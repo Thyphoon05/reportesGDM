@@ -23,8 +23,14 @@ Partial Public Class DatosdeAcceso
 
     Protected Sub Page_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
 
-        SQL = "exec spq_DatosSesionesActivas 1"
-
+        Dim FechaDesde, FechaHasta As String
+        If Not String.IsNullOrEmpty(Request.QueryString("FechaDesde")) And Not String.IsNullOrEmpty(Request.QueryString("FechaHasta")) Then
+            FechaDesde = Split(Request.Params("FechaDesde"), ",")(0)
+            FechaHasta = Split(Request.Params("FechaHasta"), ",")(0)
+            FechaDesde = DateTime.ParseExact(FechaDesde, "dd/MM/yyyy", CultureInfo.InvariantCulture).ToString("yyyyMMdd")
+            FechaHasta = DateTime.ParseExact(FechaHasta, "dd/MM/yyyy", CultureInfo.InvariantCulture).ToString("yyyyMMdd")
+            SQL = "exec spq_LoginData @idRazonSocial=" + Request.Params("idRazonSocial") + ",@FechaDesde='" + FechaDesde + "',@FechaHasta='" + FechaHasta + "'"
+        End If
         If Not Me.IsPostBack Then
             LlenarTabla()
         End If
@@ -34,7 +40,7 @@ Partial Public Class DatosdeAcceso
 
         Dim dt As DataTable = Me.GetAsistenceData()
         Dim html As New StringBuilder()
-        html.Append("<table id='Asistencia'>")
+        html.Append("<table id='Asistencia' class='display' style='width:100%'>")
         html.Append("<thead>")
         html.Append("<tr>")
         For Each column As DataColumn In dt.Columns

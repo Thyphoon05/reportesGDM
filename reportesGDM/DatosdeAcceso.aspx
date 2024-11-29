@@ -21,38 +21,42 @@
 	<script language="javascript" type="text/javascript" src='<%=Intelexion.Framework.ApplicationConfiguration.ConfigurationSettings.GetConfigurationSettings("ApplicationPath")%>/Calendario/popcalendar.js'></script>
 	<script language="javascript" type="text/javascript" src='<%=Intelexion.Framework.ApplicationConfiguration.ConfigurationSettings.GetConfigurationSettings("ApplicationPath")%>/scripts/jQuery/jquery-1.12.4.min.js'></script>
 	<script language="javascript" type="text/javascript" src='<%=Intelexion.Framework.ApplicationConfiguration.ConfigurationSettings.GetConfigurationSettings("ApplicationPath")%>/scripts/jQuery/DataTables-1.13.5/datatables.min.js'></script>
-    <script language="javascript">
+	<script language="javascript" type="text/javascript" src='<%=Intelexion.Framework.ApplicationConfiguration.ConfigurationSettings.GetConfigurationSettings("ApplicationPath")%>/scripts/jQuery/DataTables-1.13.5/dataTables.buttons.js'></script>
+	<script language="javascript" type="text/javascript" src='<%=Intelexion.Framework.ApplicationConfiguration.ConfigurationSettings.GetConfigurationSettings("ApplicationPath")%>/scripts/jQuery/DataTables-1.13.5/buttons.dataTables.js'></script>
+	<script language="javascript" type="text/javascript" src='<%=Intelexion.Framework.ApplicationConfiguration.ConfigurationSettings.GetConfigurationSettings("ApplicationPath")%>/scripts/jQuery/DataTables-1.13.5/jszip.min.js'></script>
+	<script language="javascript" type="text/javascript" src='<%=Intelexion.Framework.ApplicationConfiguration.ConfigurationSettings.GetConfigurationSettings("ApplicationPath")%>/scripts/jQuery/DataTables-1.13.5/pdfmake.min.js'></script>
+	<script language="javascript" type="text/javascript" src='<%=Intelexion.Framework.ApplicationConfiguration.ConfigurationSettings.GetConfigurationSettings("ApplicationPath")%>/scripts/jQuery/DataTables-1.13.5/vfs_fonts.js'></script>	
+	<script language="javascript" type="text/javascript" src='<%=Intelexion.Framework.ApplicationConfiguration.ConfigurationSettings.GetConfigurationSettings("ApplicationPath")%>/scripts/jQuery/DataTables-1.13.5/buttons.html5.min.js'></script>
+	<script language="javascript" type="text/javascript" src='<%=Intelexion.Framework.ApplicationConfiguration.ConfigurationSettings.GetConfigurationSettings("ApplicationPath")%>/scripts/jQuery/DataTables-1.13.5/buttons.print.min.js'></script>
+	
+   <script language="javascript">
 		    var Empleados = true;
 		    var processCommand = "";
 		    
 		    $(document).ready( function () {
-            $('#Asistencia').DataTable({
-				language: {
-					"decimal": "",
-					"emptyTable": "No hay información",
-					"info": "Mostrando _START_ a _END_ de _TOTAL_ Entradas",
-					"infoEmpty": "Mostrando 0 to 0 of 0 Entradas",
-					"infoFiltered": "(Filtrado de _MAX_ total entradas)",
-					"infoPostFix": "",
-					"thousands": ",",
-					"lengthMenu": "Mostrar _MENU_ Entradas",
-					"loadingRecords": "Cargando...",
-					"processing": "Procesando...",
-					"search": "Buscar:",
-					"zeroRecords": "Sin resultados encontrados",
-					"paginate": {
-						"first": "Primero",
-						"last": "Ultimo",
-						"next": "Siguiente",
-						"previous": "Anterior"
-					}
-				}
-			});
+			
+			new DataTable('#Asistencia', {
+					layout: {
+						topStart: {
+							buttons: [ 'copy', 'excel',
+								{   
+									extend: 'pdfHtml5',
+									orientation: 'landscape',
+									pageSize: 'LEGAL'
+								}
+							]
+						}
+					},
+					language: {
+								url: '<%=Intelexion.Framework.ApplicationConfiguration.ConfigurationSettings.GetConfigurationSettings("ApplicationPath")%>/scripts/jQuery/DataTables-1.13.5/es-MX.json',
+							}
+				});
 			} );
                 </script>
-    <title>Gr&acutea;ficos de Accesos</title>
+    <title>Gr&aacute;ficos de Accesos</title>
 </head>
 <body>
+
     <form id="form1" runat="server">
        <div class="formArea rightForm" id="div1" style="width:80%">
 	        <asp:PlaceHolder id="TablaTop10Users" runat="server"></asp:PlaceHolder>

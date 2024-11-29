@@ -43,6 +43,8 @@
     <Reference Include="ActiveReports3, Version=5.2.1013.1, Culture=neutral, PublicKeyToken=cc4967777c49a3ff">
       <Private>True</Private>
     </Reference>
+    <Reference Include="DocumentFormat.OpenXml, Version=3.0.2.0, Culture=neutral, PublicKeyToken=8fb06cb64d019a17, processorArchitecture=MSIL" />
+    <Reference Include="DocumentFormat.OpenXml.Framework, Version=3.0.2.0, Culture=neutral, PublicKeyToken=8fb06cb64d019a17, processorArchitecture=MSIL" />
     <Reference Include="Intelexion.Framework, Version=4.9.9.9, Culture=neutral, processorArchitecture=MSIL" />
     <Reference Include="Intelexion.Nomina, Version=4.9.9.9, Culture=neutral, processorArchitecture=MSIL" />
     <Reference Include="Microsoft.ReportViewer.Common, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
@@ -139,6 +141,7 @@
     <Content Include="obj\Release\ReportesCliente.xml" />
     <Content Include="obj\Release\TempPE\My Project.Resources.Designer.vb.dll" />
     <Content Include="obj\Release\TempPE\Resource1.Designer.vb.dll" />
+    <Content Include="ReportePolizaSAP.aspx" />
     <Content Include="Web.config" />
     <Content Include="ReporteAsistencia.aspx" />
   </ItemGroup>
@@ -181,6 +184,13 @@
     <Compile Include="ReporteAsistencia.aspx.vb">
       <DependentUpon>ReporteAsistencia.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="ReportePolizaSAP.aspx.designer.vb">
+      <DependentUpon>ReportePolizaSAP.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ReportePolizaSAP.aspx.vb">
+      <DependentUpon>ReportePolizaSAP.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>

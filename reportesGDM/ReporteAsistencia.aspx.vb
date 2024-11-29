@@ -17,7 +17,7 @@ Partial Public Class ReporteAsistencia
 
     Inherits System.Web.UI.Page
 
-    Dim sConnection As String = "Data Source=127.0.0.1; Initial Catalog=QAV6FCENomina; User Id=ITX_FCE; Password=GDM$1234; Connection Lifetime=60; Max Pool Size=200; Min Pool Size=3; Application Name=HRC_FCENomina"
+    Dim sConnection As String = Intelexion.Framework.Model.SQLConnectionProvider.getConnection("default").getConnection.ConnectionString
     Dim SQL As String
 
     Public RPT As New Asistencia
