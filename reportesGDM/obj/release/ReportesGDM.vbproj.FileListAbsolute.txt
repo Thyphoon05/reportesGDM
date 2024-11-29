@@ -22,3 +22,15 @@ D:\GDM\reportesGDM_FCE\ReportesGDM\obj\Release\ReportesGDM.dll.licenses
 D:\GDM\reportesGDM_FCE\ReportesGDM\obj\Release\ReportesGDM.dll
 D:\GDM\reportesGDM_FCE\ReportesGDM\obj\Release\ReportesGDM.xml
 D:\GDM\reportesGDM_FCE\ReportesGDM\obj\Release\ReportesGDM.pdb
+D:\GDM\reportesGDM_Excellense\ReportesGDM\bin\ReportesGDM.dll
+D:\GDM\reportesGDM_Excellense\ReportesGDM\bin\ReportesGDM.pdb
+D:\GDM\reportesGDM_Excellense\ReportesGDM\bin\ReportesGDM.xml
+D:\GDM\reportesGDM_Excellense\ReportesGDM\bin\ActiveReports3.dll
+D:\GDM\reportesGDM_Excellense\ReportesGDM\obj\Release\ResolveAssemblyReference.cache
+D:\GDM\reportesGDM_Excellense\ReportesGDM\obj\Release\ReportesGDM.Resources.resources
+D:\GDM\reportesGDM_Excellense\ReportesGDM\obj\Release\ReportesGDM.Asistencia.resources
+D:\GDM\reportesGDM_Excellense\ReportesGDM\obj\Release\ReportesGDM.vbproj.GenerateResource.Cache
+D:\GDM\reportesGDM_Excellense\ReportesGDM\obj\Release\ReportesGDM.dll.licenses
+D:\GDM\reportesGDM_Excellense\ReportesGDM\obj\Release\ReportesGDM.dll
+D:\GDM\reportesGDM_Excellense\ReportesGDM\obj\Release\ReportesGDM.xml
+D:\GDM\reportesGDM_Excellense\ReportesGDM\obj\Release\ReportesGDM.pdb

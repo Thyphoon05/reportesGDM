@@ -129,6 +129,7 @@
     <Content Include="bin\ReportesCliente.dll" />
     <Content Include="bin\ReportesCliente.pdb" />
     <Content Include="bin\ReportesCliente.xml" />
+    <Content Include="Export.aspx" />
     <Content Include="obj\Debug\ReportesCliente.pdb" />
     <Content Include="obj\Debug\ReportesCliente.vbproj.FileListAbsolute.txt" />
     <Content Include="obj\Debug\ReportesCliente.xml" />
@@ -142,6 +143,16 @@
     <Content Include="ReporteAsistencia.aspx" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Export.aspx.designer.vb">
+      <DependentUpon>Export.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Export.aspx.vb">
+      <DependentUpon>Export.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Export\ExportTxt.vb">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
     <Compile Include="obj\Asistencia.Designer.vb">
       <DependentUpon>Asistencia.vb</DependentUpon>
     </Compile>
