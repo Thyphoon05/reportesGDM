@@ -14,54 +14,6 @@ Control form1.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:ReportesGDM.ReporteAsistencia.ligaExcel">
-	<summary>
-Control ligaExcel.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:ReportesGDM.ReporteAsistencia.WebViewer10">
-	<summary>
-Control WebViewer10.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:ReportesGDM.ReporteAsistencia.PlaceHolder1">
-	<summary>
-Control PlaceHolder1.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:ReportesGDM.ReporteAsistencia.lblIdTipoNominaAsig">
-	<summary>
-Control lblIdTipoNominaAsig.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:ReportesGDM.ReporteAsistencia.lblIdTipoNominaProc">
-	<summary>
-Control lblIdTipoNominaProc.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:ReportesGDM.ReporteAsistencia.lblPeriodo">
-	<summary>
-Control lblPeriodo.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
 </member><member name="F:ReportesGDM.ReporteAsistencia.FechaDesde">
 	<summary>
 Control FechaDesde.
@@ -78,9 +30,17 @@ Control FechaHasta.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:ReportesGDM.ReporteAsistencia.btnEnviar">
+</member><member name="F:ReportesGDM.ReporteAsistencia.ligaExcel">
 	<summary>
-Control btnEnviar.
+Control ligaExcel.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ReportesGDM.ReporteAsistencia.PlaceHolder1">
+	<summary>
+Control PlaceHolder1.
 </summary>
 	<remarks>
 Campo generado automáticamente.

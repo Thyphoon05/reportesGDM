@@ -26,3 +26,15 @@ D:\GDM\reportesGDM_FCE\ReportesGDM\bin\ITX.Aliatec.dll
 D:\GDM\reportesGDM_FCE\ReportesGDM\bin\Intelexion.Inventario.dll
 D:\GDM\reportesGDM_FCE\ReportesGDM\bin\Intelexion.Compensacion.dll
 D:\GDM\reportesGDM_FCE\ReportesGDM\bin\office.dll
+C:\GDM\reportesGDM\reportesGDM_Rabbit\ReportesGDM\obj\Debug\ResolveAssemblyReference.cache
+C:\GDM\reportesGDM\reportesGDM_Rabbit\ReportesGDM\obj\Debug\ReportesGDM.Resources.resources
+C:\GDM\reportesGDM\reportesGDM_Rabbit\ReportesGDM\obj\Debug\ReportesGDM.Asistencia.resources
+C:\GDM\reportesGDM\reportesGDM_Rabbit\ReportesGDM\obj\Debug\ReportesGDM.vbproj.GenerateResource.Cache
+C:\GDM\reportesGDM\reportesGDM_Rabbit\ReportesGDM\obj\Debug\ReportesGDM.dll.licenses
+C:\GDM\reportesGDM\reportesGDM_Rabbit\ReportesGDM\obj\Debug\ReportesGDM.dll
+C:\GDM\reportesGDM\reportesGDM_Rabbit\ReportesGDM\obj\Debug\ReportesGDM.xml
+C:\GDM\reportesGDM\reportesGDM_Rabbit\ReportesGDM\obj\Debug\ReportesGDM.pdb
+C:\GDM\reportesGDM\reportesGDM_Rabbit\ReportesGDM\bin\ReportesGDM.dll
+C:\GDM\reportesGDM\reportesGDM_Rabbit\ReportesGDM\bin\ReportesGDM.pdb
+C:\GDM\reportesGDM\reportesGDM_Rabbit\ReportesGDM\bin\ReportesGDM.xml
+C:\GDM\reportesGDM\reportesGDM_Rabbit\ReportesGDM\bin\ActiveReports3.dll

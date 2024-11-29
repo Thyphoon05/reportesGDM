@@ -37,16 +37,19 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Accessibility" />
+    <Reference Include="ActiveReports.PdfExport, Version=5.2.1013.1, Culture=neutral, PublicKeyToken=cc4967777c49a3ff">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\ActiveReports.PdfExport.dll</HintPath>
+    </Reference>
     <Reference Include="ActiveReports.Viewer3, Version=5.2.1013.1, Culture=neutral, PublicKeyToken=cc4967777c49a3ff" />
     <Reference Include="ActiveReports.Web, Version=5.2.1013.1, Culture=neutral, PublicKeyToken=cc4967777c49a3ff" />
     <Reference Include="ActiveReports.XlsExport, Version=5.2.1013.1, Culture=neutral, PublicKeyToken=cc4967777c49a3ff" />
     <Reference Include="ActiveReports3, Version=5.2.1013.1, Culture=neutral, PublicKeyToken=cc4967777c49a3ff">
       <Private>True</Private>
     </Reference>
-    <Reference Include="DocumentFormat.OpenXml, Version=3.0.2.0, Culture=neutral, PublicKeyToken=8fb06cb64d019a17, processorArchitecture=MSIL" />
-    <Reference Include="DocumentFormat.OpenXml.Framework, Version=3.0.2.0, Culture=neutral, PublicKeyToken=8fb06cb64d019a17, processorArchitecture=MSIL" />
     <Reference Include="Intelexion.Framework, Version=4.9.9.9, Culture=neutral, processorArchitecture=MSIL" />
     <Reference Include="Intelexion.Nomina, Version=4.9.9.9, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="ITX.Aliatec, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
     <Reference Include="Microsoft.ReportViewer.Common, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
     <Reference Include="Microsoft.ReportViewer.WinForms, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
     <Reference Include="Nomina, Version=4.9.9.9, Culture=neutral, processorArchitecture=MSIL" />
@@ -131,7 +134,9 @@
     <Content Include="bin\ReportesCliente.dll" />
     <Content Include="bin\ReportesCliente.pdb" />
     <Content Include="bin\ReportesCliente.xml" />
-    <Content Include="DatosdeAcceso.aspx" />
+    <Content Include="ConsultaTimbradoEmpleado.aspx" />
+    <Content Include="FiltrosTimbrado.aspx" />
+    <Content Include="FuncionesTimbrado.aspx" />
     <Content Include="obj\Debug\ReportesCliente.pdb" />
     <Content Include="obj\Debug\ReportesCliente.vbproj.FileListAbsolute.txt" />
     <Content Include="obj\Debug\ReportesCliente.xml" />
@@ -141,16 +146,12 @@
     <Content Include="obj\Release\ReportesCliente.xml" />
     <Content Include="obj\Release\TempPE\My Project.Resources.Designer.vb.dll" />
     <Content Include="obj\Release\TempPE\Resource1.Designer.vb.dll" />
-    <Content Include="ReportePolizaSAP.aspx" />
     <Content Include="Web.config" />
     <Content Include="ReporteAsistencia.aspx" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DatosdeAcceso.aspx.designer.vb">
-      <DependentUpon>DatosdeAcceso.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="DatosdeAcceso.aspx.vb">
-      <DependentUpon>DatosdeAcceso.aspx</DependentUpon>
+    <Compile Include="FuncionesTimbrado.aspx.vb">
+      <DependentUpon>FuncionesTimbrado.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="obj\Asistencia.Designer.vb">
@@ -184,13 +185,6 @@
     <Compile Include="ReporteAsistencia.aspx.vb">
       <DependentUpon>ReporteAsistencia.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
-    </Compile>
-    <Compile Include="ReportePolizaSAP.aspx.designer.vb">
-      <DependentUpon>ReportePolizaSAP.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="ReportePolizaSAP.aspx.vb">
-      <DependentUpon>ReportePolizaSAP.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
@@ -242,7 +236,7 @@
         <WebProjectProperties>
           <UseIIS>False</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>2501</DevelopmentServerPort>
+          <DevelopmentServerPort>13569</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
           <IISUrl>
           </IISUrl>

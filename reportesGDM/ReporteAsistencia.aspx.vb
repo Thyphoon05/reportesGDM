@@ -13,6 +13,8 @@ Imports System.Configuration
 Imports System.Data.SqlClient
 Imports System.Globalization
 
+
+
 Partial Public Class ReporteAsistencia
 
     Inherits System.Web.UI.Page
