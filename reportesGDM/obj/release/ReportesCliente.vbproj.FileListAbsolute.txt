@@ -1,0 +1,761 @@
+D:\Desarrollo\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\bin\ReportesCliente.dll
+D:\Desarrollo\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\bin\ReportesCliente.pdb
+D:\Desarrollo\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\bin\ReportesCliente.xml
+D:\Desarrollo\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ResolveAssemblyReference.cache
+D:\Desarrollo\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.Resources.resources
+D:\Desarrollo\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.vbproj.GenerateResource.Cache
+D:\Desarrollo\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.dll.licenses
+D:\Desarrollo\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.dll
+D:\Desarrollo\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.xml
+D:\Desarrollo\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.pdb
+D:\Desarrollo\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\bin\ActiveReports3.dll
+D:\Desarrollo\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.CartaFiniquito.resources
+D:\Desarrollo\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.Percepciones2.resources
+D:\Desarrollo\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.NewActiveReport1.resources
+D:\Desarrollo\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.NewActiveReport3.resources
+D:\Desarrollo\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.EmpresaMensual.resources
+D:\Desarrollo\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.DeduccionesMensual.resources
+D:\Desarrollo\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesMensual.resources
+D:\Desarrollo\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.ExentosGravadosMensual.resources
+D:\Desarrollo\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.DeduccionesMensualISN.resources
+D:\Desarrollo\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesMensualISN.resources
+D:\Desarrollo\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.ISN.resources
+D:\Desarrollo\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesMensualISNMEX.resources
+D:\Desarrollo\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.DeduccionesMensualISNMEX.resources
+D:\Desarrollo\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.ISNMEX.resources
+C:\Users\AliatecAdmin\Documents\trabajo\MC\Reportes Cliente\ReportesCliente\ReportesCliente\ReportesCliente\bin\ReportesCliente.dll
+C:\Users\AliatecAdmin\Documents\trabajo\MC\Reportes Cliente\ReportesCliente\ReportesCliente\ReportesCliente\bin\ReportesCliente.pdb
+C:\Users\AliatecAdmin\Documents\trabajo\MC\Reportes Cliente\ReportesCliente\ReportesCliente\ReportesCliente\bin\ReportesCliente.xml
+C:\Users\AliatecAdmin\Documents\trabajo\MC\Reportes Cliente\ReportesCliente\ReportesCliente\ReportesCliente\bin\ActiveReports3.dll
+C:\Users\AliatecAdmin\Documents\trabajo\MC\Reportes Cliente\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ResolveAssemblyReference.cache
+C:\Users\AliatecAdmin\Documents\trabajo\MC\Reportes Cliente\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.CentroCostosEmpleado.resources
+C:\Users\AliatecAdmin\Documents\trabajo\MC\Reportes Cliente\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.CartaFiniquito.resources
+C:\Users\AliatecAdmin\Documents\trabajo\MC\Reportes Cliente\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesMensualISNMEX.resources
+C:\Users\AliatecAdmin\Documents\trabajo\MC\Reportes Cliente\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.DeduccionesMensualISNMEX.resources
+C:\Users\AliatecAdmin\Documents\trabajo\MC\Reportes Cliente\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.ISNMEX.resources
+C:\Users\AliatecAdmin\Documents\trabajo\MC\Reportes Cliente\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.DeduccionesMensualISN.resources
+C:\Users\AliatecAdmin\Documents\trabajo\MC\Reportes Cliente\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesMensualISN.resources
+C:\Users\AliatecAdmin\Documents\trabajo\MC\Reportes Cliente\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.ISN.resources
+C:\Users\AliatecAdmin\Documents\trabajo\MC\Reportes Cliente\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.EmpresaMensual.resources
+C:\Users\AliatecAdmin\Documents\trabajo\MC\Reportes Cliente\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.DeduccionesMensual.resources
+C:\Users\AliatecAdmin\Documents\trabajo\MC\Reportes Cliente\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesMensual.resources
+C:\Users\AliatecAdmin\Documents\trabajo\MC\Reportes Cliente\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.ExentosGravadosMensual.resources
+C:\Users\AliatecAdmin\Documents\trabajo\MC\Reportes Cliente\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.Empresa.resources
+C:\Users\AliatecAdmin\Documents\trabajo\MC\Reportes Cliente\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.NewActiveReport1.resources
+C:\Users\AliatecAdmin\Documents\trabajo\MC\Reportes Cliente\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.NewActiveReport2.resources
+C:\Users\AliatecAdmin\Documents\trabajo\MC\Reportes Cliente\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.NewActiveReport3.resources
+C:\Users\AliatecAdmin\Documents\trabajo\MC\Reportes Cliente\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.Percepciones2.resources
+C:\Users\AliatecAdmin\Documents\trabajo\MC\Reportes Cliente\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.Resources.resources
+C:\Users\AliatecAdmin\Documents\trabajo\MC\Reportes Cliente\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.Deducciones.resources
+C:\Users\AliatecAdmin\Documents\trabajo\MC\Reportes Cliente\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.Percepciones.resources
+C:\Users\AliatecAdmin\Documents\trabajo\MC\Reportes Cliente\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.vbproj.GenerateResource.Cache
+C:\Users\AliatecAdmin\Documents\trabajo\MC\Reportes Cliente\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.dll.licenses
+C:\Users\AliatecAdmin\Documents\trabajo\MC\Reportes Cliente\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.dll
+C:\Users\AliatecAdmin\Documents\trabajo\MC\Reportes Cliente\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.xml
+C:\Users\AliatecAdmin\Documents\trabajo\MC\Reportes Cliente\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.pdb
+C:\Users\AliatecAdmin\Documents\trabajo\MC\Reportes Cliente\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.EmpleadosporConcepto.resources
+D:\Desarrollo\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.CentroCostosEmpleado.resources
+D:\Desarrollo\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.EmpleadosporConcepto.resources
+D:\Desarrollo\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.EmpresaGravadosExentosPeriodo.resources
+D:\Desarrollo\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.GravadosExentosPeriodo.resources
+D:\Desarrollo\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.DeduccionesGravadosExentosPeriodo.resources
+D:\Desarrollo\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesGravadosExentosPeriodo.resources
+D:\Desarrollo\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.Provisiones.resources
+D:\Desarrollo\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.ProvisionesPorEmpresa.resources
+D:\Desarrollo\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesEmpleadosPorConcepto.resources
+D:\Desarrollo\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesProvisionesCentroCostos.resources
+D:\Desarrollo\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.ProvisionesCentroCostos.resources
+C:\Users\AliatecAdmin\Documents\Victor\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\bin\ReportesCliente.dll
+C:\Users\AliatecAdmin\Documents\Victor\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\bin\ReportesCliente.pdb
+C:\Users\AliatecAdmin\Documents\Victor\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\bin\ReportesCliente.xml
+C:\Users\AliatecAdmin\Documents\Victor\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\bin\ActiveReports3.dll
+C:\Users\AliatecAdmin\Documents\Victor\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ResolveAssemblyReference.cache
+C:\Users\AliatecAdmin\Documents\Victor\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.CartaFiniquito.resources
+C:\Users\AliatecAdmin\Documents\Victor\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.CentroCostosEmpleado.resources
+C:\Users\AliatecAdmin\Documents\Victor\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesEmpleadosPorConcepto.resources
+C:\Users\AliatecAdmin\Documents\Victor\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesProvisionesCentroCostos.resources
+C:\Users\AliatecAdmin\Documents\Victor\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.Provisiones.resources
+C:\Users\AliatecAdmin\Documents\Victor\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.ProvisionesCentroCostos.resources
+C:\Users\AliatecAdmin\Documents\Victor\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.ProvisionesPorEmpresa.resources
+C:\Users\AliatecAdmin\Documents\Victor\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.EmpleadosporConcepto.resources
+C:\Users\AliatecAdmin\Documents\Victor\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesMensualISNMEX.resources
+C:\Users\AliatecAdmin\Documents\Victor\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.DeduccionesMensualISNMEX.resources
+C:\Users\AliatecAdmin\Documents\Victor\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.ISNMEX.resources
+C:\Users\AliatecAdmin\Documents\Victor\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.DeduccionesMensualISN.resources
+C:\Users\AliatecAdmin\Documents\Victor\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesMensualISN.resources
+C:\Users\AliatecAdmin\Documents\Victor\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.ISN.resources
+C:\Users\AliatecAdmin\Documents\Victor\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.EmpresaMensual.resources
+C:\Users\AliatecAdmin\Documents\Victor\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.DeduccionesMensual.resources
+C:\Users\AliatecAdmin\Documents\Victor\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesMensual.resources
+C:\Users\AliatecAdmin\Documents\Victor\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.ExentosGravadosMensual.resources
+C:\Users\AliatecAdmin\Documents\Victor\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.EmpresaGravadosExentosPeriodo.resources
+C:\Users\AliatecAdmin\Documents\Victor\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.NewActiveReport1.resources
+C:\Users\AliatecAdmin\Documents\Victor\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.GravadosExentosPeriodo.resources
+C:\Users\AliatecAdmin\Documents\Victor\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.NewActiveReport3.resources
+C:\Users\AliatecAdmin\Documents\Victor\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.Percepciones2.resources
+C:\Users\AliatecAdmin\Documents\Victor\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.Resources.resources
+C:\Users\AliatecAdmin\Documents\Victor\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.DeduccionesGravadosExentosPeriodo.resources
+C:\Users\AliatecAdmin\Documents\Victor\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesGravadosExentosPeriodo.resources
+C:\Users\AliatecAdmin\Documents\Victor\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.vbproj.GenerateResource.Cache
+C:\Users\AliatecAdmin\Documents\Victor\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.dll.licenses
+C:\Users\AliatecAdmin\Documents\Victor\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.dll
+C:\Users\AliatecAdmin\Documents\Victor\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.xml
+C:\Users\AliatecAdmin\Documents\Victor\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.pdb
+C:\Users\Daniel\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\bin\ReportesCliente.dll
+C:\Users\Daniel\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\bin\ReportesCliente.pdb
+C:\Users\Daniel\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\bin\ReportesCliente.xml
+C:\Users\Daniel\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\bin\ActiveReports3.dll
+C:\Users\Daniel\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.CartaFiniquito.resources
+C:\Users\Daniel\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.CentroCostosEmpleado.resources
+C:\Users\Daniel\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesEmpleadosPorConcepto.resources
+C:\Users\Daniel\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesProvisionesCentroCostos.resources
+C:\Users\Daniel\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.Provisiones.resources
+C:\Users\Daniel\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.ProvisionesCentroCostos.resources
+C:\Users\Daniel\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.ProvisionesPorEmpresa.resources
+C:\Users\Daniel\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.EmpleadosporConcepto.resources
+C:\Users\Daniel\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesMensualISNMEX.resources
+C:\Users\Daniel\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.DeduccionesMensualISNMEX.resources
+C:\Users\Daniel\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.ISNMEX.resources
+C:\Users\Daniel\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.DeduccionesMensualISN.resources
+C:\Users\Daniel\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesMensualISN.resources
+C:\Users\Daniel\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.ISN.resources
+C:\Users\Daniel\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.EmpresaMensual.resources
+C:\Users\Daniel\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.DeduccionesMensual.resources
+C:\Users\Daniel\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesMensual.resources
+C:\Users\Daniel\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.ExentosGravadosMensual.resources
+C:\Users\Daniel\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.EmpresaGravadosExentosPeriodo.resources
+C:\Users\Daniel\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.NewActiveReport1.resources
+C:\Users\Daniel\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.GravadosExentosPeriodo.resources
+C:\Users\Daniel\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.NewActiveReport3.resources
+C:\Users\Daniel\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.Percepciones2.resources
+C:\Users\Daniel\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.Resources.resources
+C:\Users\Daniel\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.DeduccionesGravadosExentosPeriodo.resources
+C:\Users\Daniel\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesGravadosExentosPeriodo.resources
+C:\Users\Daniel\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.vbproj.GenerateResource.Cache
+C:\Users\Daniel\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.dll.licenses
+C:\Users\Daniel\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.dll
+C:\Users\Daniel\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.xml
+C:\Users\Daniel\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.pdb
+C:\Users\Aliatec-HP\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\bin\ReportesCliente.dll
+C:\Users\Aliatec-HP\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\bin\ReportesCliente.pdb
+C:\Users\Aliatec-HP\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\bin\ReportesCliente.xml
+C:\Users\Aliatec-HP\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\bin\ActiveReports3.dll
+C:\Users\Aliatec-HP\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Aliatec-HP\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.CartaFiniquito.resources
+C:\Users\Aliatec-HP\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.CentroCostosEmpleado.resources
+C:\Users\Aliatec-HP\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesEmpleadosPorConcepto.resources
+C:\Users\Aliatec-HP\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesProvisionesCentroCostos.resources
+C:\Users\Aliatec-HP\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.Provisiones.resources
+C:\Users\Aliatec-HP\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.ProvisionesCentroCostos.resources
+C:\Users\Aliatec-HP\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.ProvisionesPorEmpresa.resources
+C:\Users\Aliatec-HP\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.EmpleadosporConcepto.resources
+C:\Users\Aliatec-HP\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesMensualISNMEX.resources
+C:\Users\Aliatec-HP\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.DeduccionesMensualISNMEX.resources
+C:\Users\Aliatec-HP\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.ISNMEX.resources
+C:\Users\Aliatec-HP\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.DeduccionesMensualISN.resources
+C:\Users\Aliatec-HP\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesMensualISN.resources
+C:\Users\Aliatec-HP\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.ISN.resources
+C:\Users\Aliatec-HP\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.EmpresaMensual.resources
+C:\Users\Aliatec-HP\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.DeduccionesMensual.resources
+C:\Users\Aliatec-HP\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesMensual.resources
+C:\Users\Aliatec-HP\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.ExentosGravadosMensual.resources
+C:\Users\Aliatec-HP\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.EmpresaGravadosExentosPeriodo.resources
+C:\Users\Aliatec-HP\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.NewActiveReport1.resources
+C:\Users\Aliatec-HP\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.GravadosExentosPeriodo.resources
+C:\Users\Aliatec-HP\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.NewActiveReport3.resources
+C:\Users\Aliatec-HP\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.Percepciones2.resources
+C:\Users\Aliatec-HP\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.Resources.resources
+C:\Users\Aliatec-HP\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.DeduccionesGravadosExentosPeriodo.resources
+C:\Users\Aliatec-HP\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesGravadosExentosPeriodo.resources
+C:\Users\Aliatec-HP\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.vbproj.GenerateResource.Cache
+C:\Users\Aliatec-HP\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.dll.licenses
+C:\Users\Aliatec-HP\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.dll
+C:\Users\Aliatec-HP\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.xml
+C:\Users\Aliatec-HP\Documents\GitHub\McGraw-Hill\ReportesCliente\ReportesCliente\ReportesCliente\obj\Release\ReportesCliente.pdb
+C:\Users\Eduardo\Desktop\PROYECTOS\NGA\Mgh\DLL\MGW\ReportesCliente\reportescliente\ReportesCliente\bin\ReportesCliente.dll
+C:\Users\Eduardo\Desktop\PROYECTOS\NGA\Mgh\DLL\MGW\ReportesCliente\reportescliente\ReportesCliente\bin\ReportesCliente.pdb
+C:\Users\Eduardo\Desktop\PROYECTOS\NGA\Mgh\DLL\MGW\ReportesCliente\reportescliente\ReportesCliente\bin\ReportesCliente.xml
+C:\Users\Eduardo\Desktop\PROYECTOS\NGA\Mgh\DLL\MGW\ReportesCliente\reportescliente\ReportesCliente\bin\ActiveReports3.dll
+C:\Users\Eduardo\Desktop\PROYECTOS\NGA\Mgh\DLL\MGW\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Eduardo\Desktop\PROYECTOS\NGA\Mgh\DLL\MGW\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.CartaFiniquito.resources
+C:\Users\Eduardo\Desktop\PROYECTOS\NGA\Mgh\DLL\MGW\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.CentroCostosEmpleado.resources
+C:\Users\Eduardo\Desktop\PROYECTOS\NGA\Mgh\DLL\MGW\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ConcentradoGraExePDF.resources
+C:\Users\Eduardo\Desktop\PROYECTOS\NGA\Mgh\DLL\MGW\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesEmpleadosPorConcepto.resources
+C:\Users\Eduardo\Desktop\PROYECTOS\NGA\Mgh\DLL\MGW\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesProvisionesCentroCostos.resources
+C:\Users\Eduardo\Desktop\PROYECTOS\NGA\Mgh\DLL\MGW\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.Provisiones.resources
+C:\Users\Eduardo\Desktop\PROYECTOS\NGA\Mgh\DLL\MGW\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ProvisionesCentroCostos.resources
+C:\Users\Eduardo\Desktop\PROYECTOS\NGA\Mgh\DLL\MGW\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ProvisionesPorEmpresa.resources
+C:\Users\Eduardo\Desktop\PROYECTOS\NGA\Mgh\DLL\MGW\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.EmpleadosporConcepto.resources
+C:\Users\Eduardo\Desktop\PROYECTOS\NGA\Mgh\DLL\MGW\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesMensualISNMEX.resources
+C:\Users\Eduardo\Desktop\PROYECTOS\NGA\Mgh\DLL\MGW\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.DeduccionesMensualISNMEX.resources
+C:\Users\Eduardo\Desktop\PROYECTOS\NGA\Mgh\DLL\MGW\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ISNMEX.resources
+C:\Users\Eduardo\Desktop\PROYECTOS\NGA\Mgh\DLL\MGW\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.DeduccionesMensualISN.resources
+C:\Users\Eduardo\Desktop\PROYECTOS\NGA\Mgh\DLL\MGW\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesMensualISN.resources
+C:\Users\Eduardo\Desktop\PROYECTOS\NGA\Mgh\DLL\MGW\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ISN.resources
+C:\Users\Eduardo\Desktop\PROYECTOS\NGA\Mgh\DLL\MGW\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.EmpresaMensual.resources
+C:\Users\Eduardo\Desktop\PROYECTOS\NGA\Mgh\DLL\MGW\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.DeduccionesMensual.resources
+C:\Users\Eduardo\Desktop\PROYECTOS\NGA\Mgh\DLL\MGW\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesMensual.resources
+C:\Users\Eduardo\Desktop\PROYECTOS\NGA\Mgh\DLL\MGW\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ExentosGravadosMensual.resources
+C:\Users\Eduardo\Desktop\PROYECTOS\NGA\Mgh\DLL\MGW\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.EmpresaGravadosExentosPeriodo.resources
+C:\Users\Eduardo\Desktop\PROYECTOS\NGA\Mgh\DLL\MGW\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.NewActiveReport1.resources
+C:\Users\Eduardo\Desktop\PROYECTOS\NGA\Mgh\DLL\MGW\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.GravadosExentosPeriodo.resources
+C:\Users\Eduardo\Desktop\PROYECTOS\NGA\Mgh\DLL\MGW\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.NewActiveReport3.resources
+C:\Users\Eduardo\Desktop\PROYECTOS\NGA\Mgh\DLL\MGW\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.Percepciones2.resources
+C:\Users\Eduardo\Desktop\PROYECTOS\NGA\Mgh\DLL\MGW\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.Resources.resources
+C:\Users\Eduardo\Desktop\PROYECTOS\NGA\Mgh\DLL\MGW\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.DeduccionesGravadosExentosPeriodo.resources
+C:\Users\Eduardo\Desktop\PROYECTOS\NGA\Mgh\DLL\MGW\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesGravadosExentosPeriodo.resources
+C:\Users\Eduardo\Desktop\PROYECTOS\NGA\Mgh\DLL\MGW\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.vbproj.GenerateResource.Cache
+C:\Users\Eduardo\Desktop\PROYECTOS\NGA\Mgh\DLL\MGW\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.dll.licenses
+C:\Users\Eduardo\Desktop\PROYECTOS\NGA\Mgh\DLL\MGW\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.dll
+C:\Users\Eduardo\Desktop\PROYECTOS\NGA\Mgh\DLL\MGW\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.xml
+C:\Users\Eduardo\Desktop\PROYECTOS\NGA\Mgh\DLL\MGW\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.pdb
+C:\Users\Eduardo\Desktop\PROYECTOS\ESTERIPHARMA\FASE 3\Desarrollos\DLL Mgh\ITX Estaripharma\ReportesCliente\reportescliente\ReportesCliente\bin\ReportesCliente.dll
+C:\Users\Eduardo\Desktop\PROYECTOS\ESTERIPHARMA\FASE 3\Desarrollos\DLL Mgh\ITX Estaripharma\ReportesCliente\reportescliente\ReportesCliente\bin\ReportesCliente.pdb
+C:\Users\Eduardo\Desktop\PROYECTOS\ESTERIPHARMA\FASE 3\Desarrollos\DLL Mgh\ITX Estaripharma\ReportesCliente\reportescliente\ReportesCliente\bin\ReportesCliente.xml
+C:\Users\Eduardo\Desktop\PROYECTOS\ESTERIPHARMA\FASE 3\Desarrollos\DLL Mgh\ITX Estaripharma\ReportesCliente\reportescliente\ReportesCliente\bin\ActiveReports3.dll
+C:\Users\Eduardo\Desktop\PROYECTOS\ESTERIPHARMA\FASE 3\Desarrollos\DLL Mgh\ITX Estaripharma\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Eduardo\Desktop\PROYECTOS\ESTERIPHARMA\FASE 3\Desarrollos\DLL Mgh\ITX Estaripharma\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.CartaFiniquito.resources
+C:\Users\Eduardo\Desktop\PROYECTOS\ESTERIPHARMA\FASE 3\Desarrollos\DLL Mgh\ITX Estaripharma\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.CentroCostosEmpleado.resources
+C:\Users\Eduardo\Desktop\PROYECTOS\ESTERIPHARMA\FASE 3\Desarrollos\DLL Mgh\ITX Estaripharma\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ConcentradoGraExePDF.resources
+C:\Users\Eduardo\Desktop\PROYECTOS\ESTERIPHARMA\FASE 3\Desarrollos\DLL Mgh\ITX Estaripharma\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.EsteripharmaDepositoDetalle.resources
+C:\Users\Eduardo\Desktop\PROYECTOS\ESTERIPHARMA\FASE 3\Desarrollos\DLL Mgh\ITX Estaripharma\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.EsteripharmaDeposito.resources
+C:\Users\Eduardo\Desktop\PROYECTOS\ESTERIPHARMA\FASE 3\Desarrollos\DLL Mgh\ITX Estaripharma\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesEmpleadosPorConcepto.resources
+C:\Users\Eduardo\Desktop\PROYECTOS\ESTERIPHARMA\FASE 3\Desarrollos\DLL Mgh\ITX Estaripharma\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesProvisionesCentroCostos.resources
+C:\Users\Eduardo\Desktop\PROYECTOS\ESTERIPHARMA\FASE 3\Desarrollos\DLL Mgh\ITX Estaripharma\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.Provisiones.resources
+C:\Users\Eduardo\Desktop\PROYECTOS\ESTERIPHARMA\FASE 3\Desarrollos\DLL Mgh\ITX Estaripharma\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ProvisionesCentroCostos.resources
+C:\Users\Eduardo\Desktop\PROYECTOS\ESTERIPHARMA\FASE 3\Desarrollos\DLL Mgh\ITX Estaripharma\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ProvisionesPorEmpresa.resources
+C:\Users\Eduardo\Desktop\PROYECTOS\ESTERIPHARMA\FASE 3\Desarrollos\DLL Mgh\ITX Estaripharma\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.EmpleadosporConcepto.resources
+C:\Users\Eduardo\Desktop\PROYECTOS\ESTERIPHARMA\FASE 3\Desarrollos\DLL Mgh\ITX Estaripharma\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesMensualISNMEX.resources
+C:\Users\Eduardo\Desktop\PROYECTOS\ESTERIPHARMA\FASE 3\Desarrollos\DLL Mgh\ITX Estaripharma\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.DeduccionesMensualISNMEX.resources
+C:\Users\Eduardo\Desktop\PROYECTOS\ESTERIPHARMA\FASE 3\Desarrollos\DLL Mgh\ITX Estaripharma\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ISNMEX.resources
+C:\Users\Eduardo\Desktop\PROYECTOS\ESTERIPHARMA\FASE 3\Desarrollos\DLL Mgh\ITX Estaripharma\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.DeduccionesMensualISN.resources
+C:\Users\Eduardo\Desktop\PROYECTOS\ESTERIPHARMA\FASE 3\Desarrollos\DLL Mgh\ITX Estaripharma\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesMensualISN.resources
+C:\Users\Eduardo\Desktop\PROYECTOS\ESTERIPHARMA\FASE 3\Desarrollos\DLL Mgh\ITX Estaripharma\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ISN.resources
+C:\Users\Eduardo\Desktop\PROYECTOS\ESTERIPHARMA\FASE 3\Desarrollos\DLL Mgh\ITX Estaripharma\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.EmpresaMensual.resources
+C:\Users\Eduardo\Desktop\PROYECTOS\ESTERIPHARMA\FASE 3\Desarrollos\DLL Mgh\ITX Estaripharma\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.DeduccionesMensual.resources
+C:\Users\Eduardo\Desktop\PROYECTOS\ESTERIPHARMA\FASE 3\Desarrollos\DLL Mgh\ITX Estaripharma\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesMensual.resources
+C:\Users\Eduardo\Desktop\PROYECTOS\ESTERIPHARMA\FASE 3\Desarrollos\DLL Mgh\ITX Estaripharma\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ExentosGravadosMensual.resources
+C:\Users\Eduardo\Desktop\PROYECTOS\ESTERIPHARMA\FASE 3\Desarrollos\DLL Mgh\ITX Estaripharma\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.EmpresaGravadosExentosPeriodo.resources
+C:\Users\Eduardo\Desktop\PROYECTOS\ESTERIPHARMA\FASE 3\Desarrollos\DLL Mgh\ITX Estaripharma\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.NewActiveReport1.resources
+C:\Users\Eduardo\Desktop\PROYECTOS\ESTERIPHARMA\FASE 3\Desarrollos\DLL Mgh\ITX Estaripharma\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.GravadosExentosPeriodo.resources
+C:\Users\Eduardo\Desktop\PROYECTOS\ESTERIPHARMA\FASE 3\Desarrollos\DLL Mgh\ITX Estaripharma\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.NewActiveReport3.resources
+C:\Users\Eduardo\Desktop\PROYECTOS\ESTERIPHARMA\FASE 3\Desarrollos\DLL Mgh\ITX Estaripharma\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.Percepciones2.resources
+C:\Users\Eduardo\Desktop\PROYECTOS\ESTERIPHARMA\FASE 3\Desarrollos\DLL Mgh\ITX Estaripharma\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.Resources.resources
+C:\Users\Eduardo\Desktop\PROYECTOS\ESTERIPHARMA\FASE 3\Desarrollos\DLL Mgh\ITX Estaripharma\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.DeduccionesGravadosExentosPeriodo.resources
+C:\Users\Eduardo\Desktop\PROYECTOS\ESTERIPHARMA\FASE 3\Desarrollos\DLL Mgh\ITX Estaripharma\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesGravadosExentosPeriodo.resources
+C:\Users\Eduardo\Desktop\PROYECTOS\ESTERIPHARMA\FASE 3\Desarrollos\DLL Mgh\ITX Estaripharma\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.vbproj.GenerateResource.Cache
+C:\Users\Eduardo\Desktop\PROYECTOS\ESTERIPHARMA\FASE 3\Desarrollos\DLL Mgh\ITX Estaripharma\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.dll.licenses
+C:\Users\Eduardo\Desktop\PROYECTOS\ESTERIPHARMA\FASE 3\Desarrollos\DLL Mgh\ITX Estaripharma\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.dll
+C:\Users\Eduardo\Desktop\PROYECTOS\ESTERIPHARMA\FASE 3\Desarrollos\DLL Mgh\ITX Estaripharma\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.xml
+C:\Users\Eduardo\Desktop\PROYECTOS\ESTERIPHARMA\FASE 3\Desarrollos\DLL Mgh\ITX Estaripharma\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.pdb
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\bin\ReportesCliente.dll
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\bin\ReportesCliente.pdb
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\bin\ReportesCliente.xml
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\bin\ActiveReports3.dll
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ResolveAssemblyReference.cache
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.CartaFiniquito.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.CentroCostosEmpleado.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ConcentradoGraExePDF.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.EsteripharmaDepositoDetalle.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.EsteripharmaDeposito.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesEmpleadosPorConcepto.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesProvisionesCentroCostos.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.Provisiones.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ProvisionesCentroCostos.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ProvisionesPorEmpresa.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.EmpleadosporConcepto.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesMensualISNMEX.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.DeduccionesMensualISNMEX.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ISNMEX.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.DeduccionesMensualISN.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesMensualISN.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ISN.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.EmpresaMensual.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.DeduccionesMensual.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesMensual.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ExentosGravadosMensual.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.EmpresaGravadosExentosPeriodo.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.NewActiveReport1.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.GravadosExentosPeriodo.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.NewActiveReport3.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.Percepciones2.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.Resources.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.DeduccionesGravadosExentosPeriodo.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesGravadosExentosPeriodo.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.vbproj.GenerateResource.Cache
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.dll.licenses
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.dll
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.xml
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.pdb
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ReportePruebaDetalle.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ReportePrueba.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ReportePruebaDetalleEmpleado.resources
+C:\GDM\OneDrive - GDM\Documents\AndAgency\ITX ANDMX\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\bin\ReportesCliente.dll
+C:\GDM\OneDrive - GDM\Documents\AndAgency\ITX ANDMX\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\bin\ReportesCliente.pdb
+C:\GDM\OneDrive - GDM\Documents\AndAgency\ITX ANDMX\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\bin\ReportesCliente.xml
+C:\GDM\OneDrive - GDM\Documents\AndAgency\ITX ANDMX\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\bin\ActiveReports3.dll
+C:\GDM\OneDrive - GDM\Documents\AndAgency\ITX ANDMX\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ResolveAssemblyReference.cache
+C:\GDM\OneDrive - GDM\Documents\AndAgency\ITX ANDMX\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.CartaFiniquito.resources
+C:\GDM\OneDrive - GDM\Documents\AndAgency\ITX ANDMX\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.CentroCostosEmpleado.resources
+C:\GDM\OneDrive - GDM\Documents\AndAgency\ITX ANDMX\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ConcentradoGraExePDF.resources
+C:\GDM\OneDrive - GDM\Documents\AndAgency\ITX ANDMX\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ReportePruebaDetalleEmpleado.resources
+C:\GDM\OneDrive - GDM\Documents\AndAgency\ITX ANDMX\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ReportePruebaDetalle.resources
+C:\GDM\OneDrive - GDM\Documents\AndAgency\ITX ANDMX\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.EsteripharmaDepositoDetalle.resources
+C:\GDM\OneDrive - GDM\Documents\AndAgency\ITX ANDMX\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.EsteripharmaDeposito.resources
+C:\GDM\OneDrive - GDM\Documents\AndAgency\ITX ANDMX\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesEmpleadosPorConcepto.resources
+C:\GDM\OneDrive - GDM\Documents\AndAgency\ITX ANDMX\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesProvisionesCentroCostos.resources
+C:\GDM\OneDrive - GDM\Documents\AndAgency\ITX ANDMX\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.Provisiones.resources
+C:\GDM\OneDrive - GDM\Documents\AndAgency\ITX ANDMX\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ProvisionesCentroCostos.resources
+C:\GDM\OneDrive - GDM\Documents\AndAgency\ITX ANDMX\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ProvisionesPorEmpresa.resources
+C:\GDM\OneDrive - GDM\Documents\AndAgency\ITX ANDMX\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.EmpleadosporConcepto.resources
+C:\GDM\OneDrive - GDM\Documents\AndAgency\ITX ANDMX\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesMensualISNMEX.resources
+C:\GDM\OneDrive - GDM\Documents\AndAgency\ITX ANDMX\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.DeduccionesMensualISNMEX.resources
+C:\GDM\OneDrive - GDM\Documents\AndAgency\ITX ANDMX\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ISNMEX.resources
+C:\GDM\OneDrive - GDM\Documents\AndAgency\ITX ANDMX\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.DeduccionesMensualISN.resources
+C:\GDM\OneDrive - GDM\Documents\AndAgency\ITX ANDMX\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesMensualISN.resources
+C:\GDM\OneDrive - GDM\Documents\AndAgency\ITX ANDMX\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ISN.resources
+C:\GDM\OneDrive - GDM\Documents\AndAgency\ITX ANDMX\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.EmpresaMensual.resources
+C:\GDM\OneDrive - GDM\Documents\AndAgency\ITX ANDMX\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.DeduccionesMensual.resources
+C:\GDM\OneDrive - GDM\Documents\AndAgency\ITX ANDMX\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesMensual.resources
+C:\GDM\OneDrive - GDM\Documents\AndAgency\ITX ANDMX\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ExentosGravadosMensual.resources
+C:\GDM\OneDrive - GDM\Documents\AndAgency\ITX ANDMX\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.EmpresaGravadosExentosPeriodo.resources
+C:\GDM\OneDrive - GDM\Documents\AndAgency\ITX ANDMX\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.NewActiveReport1.resources
+C:\GDM\OneDrive - GDM\Documents\AndAgency\ITX ANDMX\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.GravadosExentosPeriodo.resources
+C:\GDM\OneDrive - GDM\Documents\AndAgency\ITX ANDMX\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.NewActiveReport3.resources
+C:\GDM\OneDrive - GDM\Documents\AndAgency\ITX ANDMX\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.Percepciones2.resources
+C:\GDM\OneDrive - GDM\Documents\AndAgency\ITX ANDMX\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.Resources.resources
+C:\GDM\OneDrive - GDM\Documents\AndAgency\ITX ANDMX\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.DeduccionesGravadosExentosPeriodo.resources
+C:\GDM\OneDrive - GDM\Documents\AndAgency\ITX ANDMX\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesGravadosExentosPeriodo.resources
+C:\GDM\OneDrive - GDM\Documents\AndAgency\ITX ANDMX\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ReportePrueba.resources
+C:\GDM\OneDrive - GDM\Documents\AndAgency\ITX ANDMX\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.vbproj.GenerateResource.Cache
+C:\GDM\OneDrive - GDM\Documents\AndAgency\ITX ANDMX\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.dll.licenses
+C:\GDM\OneDrive - GDM\Documents\AndAgency\ITX ANDMX\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.dll
+C:\GDM\OneDrive - GDM\Documents\AndAgency\ITX ANDMX\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.xml
+C:\GDM\OneDrive - GDM\Documents\AndAgency\ITX ANDMX\ITX AndIsHere\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.pdb
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\bin\ReportesCliente.dll
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\bin\ReportesCliente.pdb
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\bin\ReportesCliente.xml
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\bin\ActiveReports3.dll
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ResolveAssemblyReference.cache
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.CartaFiniquito.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.CentroCostosEmpleado.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ConcentradoGraExePDF.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.AndisherePayrollRegister.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ReportePruebaDetalleEmpleado.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ReportePruebaDetalle.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.EsteripharmaDepositoDetalle.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.EsteripharmaDeposito.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesEmpleadosPorConcepto.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesProvisionesCentroCostos.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.Provisiones.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ProvisionesCentroCostos.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ProvisionesPorEmpresa.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.EmpleadosporConcepto.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesMensualISNMEX.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.DeduccionesMensualISNMEX.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ISNMEX.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.DeduccionesMensualISN.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesMensualISN.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ISN.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.EmpresaMensual.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.DeduccionesMensual.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesMensual.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ExentosGravadosMensual.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.EmpresaGravadosExentosPeriodo.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.NewActiveReport1.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.GravadosExentosPeriodo.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.NewActiveReport3.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.Percepciones2.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.Resources.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.DeduccionesGravadosExentosPeriodo.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesGravadosExentosPeriodo.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.vbproj.GenerateResource.Cache
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.dll.licenses
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.dll
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.xml
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.pdb
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ReporteConceptosDeduccion.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ReporteConceptosTaxes.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ReporteTotalEmpleados.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ReportePruebaDetalleEmpleadoTotal.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ReporteConceptosDeduccionTotal.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ReporteConceptosTaxesTotal.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.AndisherePayRollSummary.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.AndisherePayrollSummaryB.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryEarnings.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryTax.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryTot.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryDed.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryTaxTotal.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryTotTotal.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryTaxTotalTotal.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryTaxTotalDescri.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryEarningsTotal.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryDedTotal.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryTaxState.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryTaxFederalDeposit.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryTaxFederalState.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryImpounds.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryBank.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ReporteConceptosDeduccionTotalTotal.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ReporteConceptosTaxesTotalTotal.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ReportePruebaDetalleEmpleadoTotalTotal.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\And Agency\Proyecto para reportes\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ReporteTotalTotalEmpleados.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\bin\ReportesCliente.dll
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\bin\ReportesCliente.pdb
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\bin\ReportesCliente.xml
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\bin\ActiveReports3.dll
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ResolveAssemblyReference.cache
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.CartaFiniquito.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.CentroCostosEmpleado.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ConcentradoGraExePDF.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.AndisherePayrollSummaryB.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ReporteConceptosDeduccionTotalTotal.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ReporteConceptosTaxesTotalTotal.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ReportePruebaDetalleEmpleadoTotalTotal.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ReporteTotalTotalEmpleados.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryBank.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryImpounds.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryTaxFederalState.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryTaxState.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryTaxFederalDeposit.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryTotTotal.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryTaxTotalTotal.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryTaxTotalDescri.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryEarningsTotal.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryDedTotal.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryTaxTotal.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryTot.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryDed.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryTax.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryEarnings.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ReporteConceptosDeduccionTotal.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ReporteConceptosTaxesTotal.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ReportePruebaDetalleEmpleadoTotal.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ReporteTotalEmpleados.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ReporteConceptosDeduccion.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ReporteConceptosTaxes.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ReportePruebaDetalleEmpleado.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ReportePruebaDetalle.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.EsteripharmaDepositoDetalle.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.EsteripharmaDeposito.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesEmpleadosPorConcepto.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesProvisionesCentroCostos.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.Provisiones.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ProvisionesCentroCostos.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ProvisionesPorEmpresa.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.EmpleadosporConcepto.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesMensualISNMEX.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.DeduccionesMensualISNMEX.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ISNMEX.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.DeduccionesMensualISN.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesMensualISN.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ISN.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.EmpresaMensual.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.DeduccionesMensual.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesMensual.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ExentosGravadosMensual.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.EmpresaGravadosExentosPeriodo.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.NewActiveReport1.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.GravadosExentosPeriodo.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.NewActiveReport3.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.Percepciones2.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.Resources.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.DeduccionesGravadosExentosPeriodo.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesGravadosExentosPeriodo.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.AndisherePayRollSummary.resources
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.vbproj.GenerateResource.Cache
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.dll.licenses
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.dll
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.xml
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.pdb
+C:\Users\AxelServínReyes\OneDrive - GDM\Desktop\FirstCash\Puntos Faltantes FC 3 paises\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.LibroSalarios.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\bin\ReportesCliente.dll
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\bin\ReportesCliente.pdb
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\bin\ReportesCliente.xml
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\bin\ActiveReports3.dll
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ResolveAssemblyReference.cache
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.CartaFiniquito.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.CentroCostosEmpleado.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ConcentradoGraExePDF.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.LibroSalarios.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.AndisherePayrollSummaryB.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ReporteConceptosDeduccionTotalTotal.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ReporteConceptosTaxesTotalTotal.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ReportePruebaDetalleEmpleadoTotalTotal.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ReporteTotalTotalEmpleados.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryBank.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryImpounds.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryTaxFederalState.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryTaxState.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryTaxFederalDeposit.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryTotTotal.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryTaxTotalTotal.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryTaxTotalDescri.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryEarningsTotal.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryDedTotal.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryTaxTotal.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryTot.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryDed.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryTax.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryEarnings.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ReporteConceptosDeduccionTotal.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ReporteConceptosTaxesTotal.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ReportePruebaDetalleEmpleadoTotal.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ReporteTotalEmpleados.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ReporteConceptosDeduccion.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ReporteConceptosTaxes.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ReportePruebaDetalleEmpleado.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ReportePruebaDetalle.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.EsteripharmaDepositoDetalle.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.EsteripharmaDeposito.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesEmpleadosPorConcepto.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesProvisionesCentroCostos.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.Provisiones.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ProvisionesCentroCostos.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ProvisionesPorEmpresa.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.EmpleadosporConcepto.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesMensualISNMEX.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.DeduccionesMensualISNMEX.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ISNMEX.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.DeduccionesMensualISN.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesMensualISN.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ISN.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.EmpresaMensual.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.DeduccionesMensual.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesMensual.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ExentosGravadosMensual.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.EmpresaGravadosExentosPeriodo.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.NewActiveReport1.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.GravadosExentosPeriodo.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.NewActiveReport3.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.Percepciones2.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.Resources.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.DeduccionesGravadosExentosPeriodo.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesGravadosExentosPeriodo.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.AndisherePayRollSummary.resources
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.vbproj.GenerateResource.Cache
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.dll.licenses
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.dll
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.xml
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.pdb
+F:\GDM\DIAN\Reporte Personalizado DIAN\ReportesCliente\reportescliente\ReportesCliente\obj\Release\ReportesCliente.DIAN.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\bin\ReportesCliente.dll
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\bin\ReportesCliente.pdb
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\bin\ReportesCliente.xml
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\bin\ActiveReports3.dll
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ResolveAssemblyReference.cache
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.CartaFiniquito.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.CentroCostosEmpleado.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ConcentradoGraExePDF.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.DIAN.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.LibroSalarios.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.AndisherePayrollSummaryB.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ReporteConceptosDeduccionTotalTotal.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ReporteConceptosTaxesTotalTotal.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ReportePruebaDetalleEmpleadoTotalTotal.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ReporteTotalTotalEmpleados.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryBank.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryImpounds.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryTaxFederalState.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryTaxState.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryTaxFederalDeposit.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryTotTotal.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryTaxTotalTotal.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryTaxTotalDescri.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryEarningsTotal.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryDedTotal.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryTaxTotal.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryTot.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryDed.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryTax.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryEarnings.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ReporteConceptosDeduccionTotal.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ReporteConceptosTaxesTotal.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ReportePruebaDetalleEmpleadoTotal.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ReporteTotalEmpleados.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ReporteConceptosDeduccion.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ReporteConceptosTaxes.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ReportePruebaDetalleEmpleado.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ReportePruebaDetalle.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.EsteripharmaDepositoDetalle.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.EsteripharmaDeposito.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesEmpleadosPorConcepto.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesProvisionesCentroCostos.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.Provisiones.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ProvisionesCentroCostos.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ProvisionesPorEmpresa.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.EmpleadosporConcepto.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesMensualISNMEX.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.DeduccionesMensualISNMEX.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ISNMEX.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.DeduccionesMensualISN.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesMensualISN.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ISN.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.EmpresaMensual.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.DeduccionesMensual.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesMensual.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.ExentosGravadosMensual.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.EmpresaGravadosExentosPeriodo.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.NewActiveReport1.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.GravadosExentosPeriodo.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.NewActiveReport3.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.Percepciones2.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.Resources.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.DeduccionesGravadosExentosPeriodo.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.PercepcionesGravadosExentosPeriodo.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.AndisherePayRollSummary.resources
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.vbproj.GenerateResource.Cache
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.dll.licenses
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.dll
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.xml
+C:\Users\AxelServínReyes\Downloads\reportescliente\ReportesCliente\obj\Release\ReportesCliente.pdb
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\bin\ReportesCliente.dll
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\bin\ReportesCliente.pdb
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\bin\ReportesCliente.xml
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\bin\ActiveReports3.dll
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ResolveAssemblyReference.cache
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.CartaFiniquito.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.CentroCostosEmpleado.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.ConcentradoGraExePDF.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.DIAN.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.LibroSalarios.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.AndisherePayrollSummaryB.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.ReporteConceptosDeduccionTotalTotal.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.ReporteConceptosTaxesTotalTotal.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.ReportePruebaDetalleEmpleadoTotalTotal.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.ReporteTotalTotalEmpleados.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryBank.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryImpounds.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryTaxFederalState.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryTaxState.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryTaxFederalDeposit.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryTotTotal.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryTaxTotalTotal.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryTaxTotalDescri.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryEarningsTotal.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryDedTotal.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryTaxTotal.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryTot.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryDed.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryTax.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryEarnings.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.ReporteConceptosDeduccionTotal.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.ReporteConceptosTaxesTotal.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.ReportePruebaDetalleEmpleadoTotal.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.ReporteTotalEmpleados.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.ReporteConceptosDeduccion.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.ReporteConceptosTaxes.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.ReportePruebaDetalleEmpleado.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.ReportePruebaDetalle.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.EsteripharmaDepositoDetalle.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.EsteripharmaDeposito.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.PercepcionesEmpleadosPorConcepto.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.PercepcionesProvisionesCentroCostos.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.Provisiones.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.ProvisionesCentroCostos.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.ProvisionesPorEmpresa.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.EmpleadosporConcepto.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.PercepcionesMensualISNMEX.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.DeduccionesMensualISNMEX.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.ISNMEX.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.DeduccionesMensualISN.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.PercepcionesMensualISN.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.ISN.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.EmpresaMensual.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.DeduccionesMensual.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.PercepcionesMensual.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.ExentosGravadosMensual.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.EmpresaGravadosExentosPeriodo.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.NewActiveReport1.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.GravadosExentosPeriodo.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.NewActiveReport3.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.Percepciones2.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.Resources.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.DeduccionesGravadosExentosPeriodo.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.PercepcionesGravadosExentosPeriodo.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.AndisherePayRollSummary.resources
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.vbproj.GenerateResource.Cache
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.dll.licenses
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.dll
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.xml
+D:\GDM\reportescliente03022022(PROYECTO ACTIVO EN FC)\ReportesCliente\obj\Release\ReportesCliente.pdb
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ResolveAssemblyReference.cache
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.CartaFiniquito.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.CentroCostosEmpleado.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.ConcentradoGraExePDF.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.DIAN.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.LibroSalarios.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.AndisherePayrollSummaryB.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.ReporteConceptosDeduccionTotalTotal.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.ReporteConceptosTaxesTotalTotal.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.ReportePruebaDetalleEmpleadoTotalTotal.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.ReporteTotalTotalEmpleados.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryBank.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryImpounds.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryTaxFederalState.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryTaxState.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryTaxFederalDeposit.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryTotTotal.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryTaxTotalTotal.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryTaxTotalDescri.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryEarningsTotal.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryDedTotal.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryTaxTotal.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryTot.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryDed.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryTax.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.PayRollSummaryEarnings.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.ReporteConceptosDeduccionTotal.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.ReporteConceptosTaxesTotal.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.ReportePruebaDetalleEmpleadoTotal.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.ReporteTotalEmpleados.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.ReporteConceptosDeduccion.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.ReporteConceptosTaxes.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.ReportePruebaDetalleEmpleado.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.ReportePruebaDetalle.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.EsteripharmaDepositoDetalle.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.EsteripharmaDeposito.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.PercepcionesEmpleadosPorConcepto.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.PercepcionesProvisionesCentroCostos.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.Provisiones.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.ProvisionesCentroCostos.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.ProvisionesPorEmpresa.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.EmpleadosporConcepto.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.PercepcionesMensualISNMEX.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.DeduccionesMensualISNMEX.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.ISNMEX.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.DeduccionesMensualISN.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.PercepcionesMensualISN.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.ISN.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.EmpresaMensual.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.DeduccionesMensual.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.PercepcionesMensual.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.ExentosGravadosMensual.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.EmpresaGravadosExentosPeriodo.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.NewActiveReport1.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.GravadosExentosPeriodo.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.NewActiveReport3.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.Percepciones2.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.Resources.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.DeduccionesGravadosExentosPeriodo.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.PercepcionesGravadosExentosPeriodo.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.AndisherePayRollSummary.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.TotalGlobal.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.vbproj.GenerateResource.Cache
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.dll.licenses
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.dll
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.xml
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.pdb
+D:\GDM\reportescliente_FCE\ReportesCliente\bin\ReportesCliente.dll
+D:\GDM\reportescliente_FCE\ReportesCliente\bin\ReportesCliente.pdb
+D:\GDM\reportescliente_FCE\ReportesCliente\bin\ReportesCliente.xml
+D:\GDM\reportescliente_FCE\ReportesCliente\bin\ActiveReports3.dll
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.TotalGlobalDed.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.TotalGlobalPer.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.TotalGlobalTotDed.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.TotalGlobalTotPer.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.ImpuestoEstatalDetalle.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.ImpuestoEstatal.resources
+D:\GDM\reportescliente_FCE\ReportesCliente\obj\Release\ReportesCliente.PensionAlimentaria.resources
